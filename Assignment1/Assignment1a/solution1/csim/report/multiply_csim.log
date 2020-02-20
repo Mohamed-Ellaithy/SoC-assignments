@@ -1,0 +1,43 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../MatrixMultiplication_tb.cpp in debug mode
+   Compiling ../../../MatrixMultiplication.cpp in debug mode
+   Generating csim.exe
+
+Matrix A :
+----------
+1 2 3 4 
+
+5 6 7 8 
+
+9 10 11 12 
+
+13 14 15 16 
+
+----------------
+
+Matrix B :
+----------
+10 20 30 40 
+
+50 60 70 80 
+
+90 100 110 120 
+
+130 140 150 160 
+
+----------------
+
+
+The result :
+----------
+900 1000 1100 1200 
+
+2020 2280 2540 2800 
+
+3140 3560 3980 4400 
+
+4260 4840 5420 6000 
+
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
