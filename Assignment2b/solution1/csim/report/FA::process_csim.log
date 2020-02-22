@@ -1,0 +1,16 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../main.cpp in debug mode
+   Generating csim.exe
+
+        SystemC 2.3.1-Accellera --- Mar  5 2018 14:23:08
+        Copyright (c) 1996-2014 by all Contributors,
+        ALL RIGHTS RESERVED
+
+A   :    00100101	(37)
+B   :  + 01000100	(68)
+        ---------
+Sum :   001101001	(105)
+
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
