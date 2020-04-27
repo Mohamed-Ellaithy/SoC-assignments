@@ -1,0 +1,24 @@
+INFO: [HLS 200-10] Running '/tools/Xilinx/Vivado/2018.3/bin/unwrapped/lnx64.o/vivado_hls'
+INFO: [HLS 200-10] For user 'linux' on host 'linux-HP-Pavilion-Laptop-14-bk0xx' (Linux_x86_64 version 4.15.0-96-generic) on Mon Apr 27 16:18:16 EET 2020
+INFO: [HLS 200-10] On os Ubuntu 16.04.6 LTS
+INFO: [HLS 200-10] In directory '/home/linux/Desktop/Assignment3'
+INFO: [HLS 200-10] Opening project '/home/linux/Desktop/Assignment3/Assignment3b'.
+INFO: [HLS 200-10] Opening solution '/home/linux/Desktop/Assignment3/Assignment3b/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xa7z010clg225-1i'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+   Compiling ../../../MatrixMult_tb.cpp in debug mode
+   Generating csim.exe
+
+        SystemC 2.3.1-Accellera --- Mar  5 2018 14:23:08
+        Copyright (c) 1996-2014 by all Contributors,
+        ALL RIGHTS RESERVED
+Output :
+----------------
+10000,	11000,	12000,	13000,	
+22800,	25400,	28000,	30600,	
+35600,	39800,	44000,	48200,	
+48400,	54200,	60000,	65800,	
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
